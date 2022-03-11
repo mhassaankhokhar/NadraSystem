@@ -1,0 +1,145 @@
+1 Bahawalnagar
+2 Chishtian
+3 Fort Abbas
+4 Haroonabad
+5 Minchinabad
+1 Ahmadpur East
+2 Bahawalpur City
+3 Bahawalpur Saddar
+4 Hasilpur
+5 Khairpur Tamewali
+6 Yazman
+1 Khanpur
+2 Liaquatpur
+3 Rahim Yar Khan
+4 Sadiqabad
+1 DeExcluded Area D.G. Khan
+2 Dera Ghazi Khan
+3 Kot Chutta
+4 Taunsa
+1 Chaubara
+2 Karor Lal Esan
+3 Layyah
+1 Alipur
+2 Jatoi
+3 Kot Addu
+4 Muzaffargarh
+1 DeExcluded Area Rajanpur
+2 Jampur
+3 Rajanpur
+4 Rojhan
+1 Bhawana
+2 Chiniot
+3 Lalian
+1 Chak Jhumra
+2 Faisalabad City
+3 Faisalabad Sadar
+4 Jaranwala
+5 Sammundri
+6 Tandlian Wala
+1 Hazari
+2 Ahmadpur Sial
+3 Jhang
+4 Shorkot
+1 Gojra
+2 Kamalia
+3 Pirmahal
+4 Toba Tek Singh
+1 Gujranwala City
+2 Gujranwala Saddar
+3 Kamoke
+4 Nowshera Virkan
+5 Wazirabad
+1 Gujrat
+2 Kharian
+3 Sarai Alamgir
+1 Hafizabad
+2 Pindi Bhattian
+1 Malakwal
+2 Mandi Bahauddin
+3 Phalia
+1 Narowal
+2 Shakargarh
+3 Zafarwal
+1 Daska
+2 Pasrur
+3 Sambrial
+4 Sialkot
+1 Chunian
+2 Kasur
+3 Kot Radha Kishan
+4 Pattoki
+1 Lahore Cantt
+2 Lahore City
+3 Model Town
+4 Raiwind
+5 Shalimar
+1 Nankana Sahib
+2 Sangla Hill
+3 Shah Kot
+1 Firozewala
+2 Muridke
+3 Safdarabad
+4 Sharak Pur
+5 Sheikhupura
+1 Jahanian
+2 Kabirwala
+3 Khanewal
+4 Mian Channu
+1 Dunyapur
+2 Kahror Pacca
+3 Lodhran
+1 Jalalpur Pirwala
+2 Multan City
+3 Multan Saddar
+4 Shujabad
+1 Burewala
+2 Mailsi
+3 Vehari
+1 Attock
+2 Fateh Jang
+3 HasanAbdal
+4 Hazro
+5 Jand
+6 Pindi Gheb
+1 Chakwal
+2 Choa Saidan Shah
+3 Kallar Kahar
+4 Lawa
+5 Talagang
+1 Dina
+2 Jhelum
+3 Pind Dadan Khan
+4 Sohawa
+1 Rawalpindi
+2 Gujar Khan
+3 Kahuta
+4 Kallar Syedan
+5 Kotli Sattian
+6 Murree
+7 Taxila
+1 Depalpur
+2 Okara
+3 Renala Khurd
+1 Arifwala
+2 Pakpattan
+1 Chichawatni
+2 Sahiwal
+1 Bhakkar
+2 Darya Khan
+3 Kalur Kot
+4 Mankera
+1 Khushab
+2 Nurpur Thal
+3 Quaidabad
+4 Soon Valley
+1 Isa Khel
+2 Mianwali
+3 Piplan
+1 Bhalwal
+2 Bhera
+3 Kot Momin
+4 Sahiwal
+5 Sargodha
+6 Shahpur
+7 Sillanwali

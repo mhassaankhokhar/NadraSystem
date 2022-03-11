@@ -1,0 +1,36 @@
+1 Bahawalnagar
+2 Bahawalpur
+3 Rahim Yar Khan
+1 Dara Ghazi Khan
+2 Layyah
+3 Muzffargarh
+4 Rajhanpur
+1 Chiniot
+2 Faisalbad
+3 Jhang
+4 Tob Tek Singh
+1 Gujranwala
+2 Gujrat
+3 Hafizabad
+4 Mandi Bhauddin
+5 Narowal
+6 Sialkot
+1 Kasur
+2 Lahore
+3 Nankana Sahib
+4 Sheikhupur
+1 Khanewal
+2 Lodhran
+3 Multan
+4 Vehari
+1 Attock
+2 Chakwal
+3 Jhelum
+4 Rawalpindi
+1 Okara
+2 Pakpattan
+3 Sahiwal
+1 Bhakkar
+2 Khushab
+3 Mianwali
+4 Srgodha
